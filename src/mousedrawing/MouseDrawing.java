@@ -234,6 +234,7 @@ public class MouseDrawing extends JFrame {
             //create graphics object
             g2D = (Graphics2D) drawPanel.getGraphics();
         }
+    // Top menu bar functions
     private void newMenuItemActionPerformed(ActionEvent e) {
                 int response;
                 response = JOptionPane.showConfirmDialog(
