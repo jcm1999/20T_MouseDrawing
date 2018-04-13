@@ -1,4 +1,4 @@
-//josephm
+//josephm upload for github
 package mousedrawing;
 
 import javax.swing.*;
